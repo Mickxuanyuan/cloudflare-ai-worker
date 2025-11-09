@@ -1,0 +1,7 @@
+name = "cloudflare-ai-worker"
+main = "src/index.ts"
+compatibility_date = "2025-02-14"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+DEEPSEEK_MODEL = "deepseek-chat"
